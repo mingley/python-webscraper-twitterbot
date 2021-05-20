@@ -1,5 +1,8 @@
-python webscraper using beautiful soup.
-
-'python get-imgs.py' in terminal to execute the webscraper. It will scrape all dog pictures from the website pexels.com and make a folder for you containing the images in the same directory.
-
-'python twitter-bot.py' in terminal to execute the twitter bot program. This is will post the scraped pictures of the dogs at the programs set interval via the twitter api through your account.
+```
+get-imgs.py
+```
+Scrapes dog pictures from the pexels.com and makes a folder containing the images in the same directory.
+```
+twitter-bot.py
+```
+Uses twitter api to post the pictures of the dogs at set intervals.
